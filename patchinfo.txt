@@ -1,8 +1,3 @@
 [Version]
-Latest=1.00.0002
+Latest=1.00.0001
 NewLaunch=1.0.0
-
-[Patch_0]
-VersionFrom=1.00.0001
-VersionTo=1.00.0002
-URL_1=http://update.thienlonghuyenthoai.com/update1.zip
