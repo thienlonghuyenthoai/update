@@ -1,5 +1,5 @@
 VERSION 1  
  
 SERVER_BEGIN  
-Thiên Long Huy«n ThoÕi ,LÕc Dß½ng,1,149,3,0,0,Máy chü M¾i,192.168.0.105:6868,,,
+Thiên Long Huy«n ThoÕi ,LÕc Dß½ng,1,149,3,0,0,Máy chü M¾i,14.225.198.245:6868,,,
 SERVER_END
